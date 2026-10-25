@@ -1,0 +1,201 @@
+id,description,amount,category
+TX0001,Starbucks coffee and sandwich,161.66,Food
+TX0002,Dominos pizza order,11.13,Food
+TX0003,Groceries from supermarket,72.38,Food
+TX0004,Restaurant lunch payment,59.69,Food
+TX0005,Burger and fries takeaway,185.44,Food
+TX0006,Fresh vegetables market,170.79,Food
+TX0007,Starbucks coffee and sandwich October,223.58,Food
+TX0008,Dominos pizza order invoice,26.3,Food
+TX0009,Groceries from supermarket online,108.37,Food
+TX0010,Restaurant lunch payment transaction,12.3,Food
+TX0011,Burger and fries takeaway paid via card,58.57,Food
+TX0012,Fresh vegetables market October,128.81,Food
+TX0013,Starbucks coffee and sandwich invoice,11.5,Food
+TX0014,Dominos pizza order online,53.72,Food
+TX0015,Groceries from supermarket transaction,164.22,Food
+TX0016,Restaurant lunch payment paid via card,138.51,Food
+TX0017,Burger and fries takeaway October,59.01,Food
+TX0018,Fresh vegetables market invoice,149.37,Food
+TX0019,Starbucks coffee and sandwich online,203.31,Food
+TX0020,Dominos pizza order transaction,6.59,Food
+TX0021,Groceries from supermarket paid via card,202.43,Food
+TX0022,Restaurant lunch payment October,176.04,Food
+TX0023,Burger and fries takeaway invoice,88.36,Food
+TX0024,Fresh vegetables market online,43.09,Food
+TX0025,Starbucks coffee and sandwich transaction,239.52,Food
+TX0026,Uber ride downtown,87.47,Transport
+TX0027,Careem car trip,27.72,Transport
+TX0028,Bus ticket commute,28.7,Transport
+TX0029,Fuel at petrol station,212.64,Transport
+TX0030,Metro train ticket,152.91,Transport
+TX0031,Taxi fare to office,202.75,Transport
+TX0032,Uber ride downtown October,183.78,Transport
+TX0033,Careem car trip invoice,136.38,Transport
+TX0034,Bus ticket commute online,243.41,Transport
+TX0035,Fuel at petrol station transaction,97.74,Transport
+TX0036,Metro train ticket paid via card,140.25,Transport
+TX0037,Taxi fare to office October,208.2,Transport
+TX0038,Uber ride downtown invoice,156.54,Transport
+TX0039,Careem car trip online,216.12,Transport
+TX0040,Bus ticket commute transaction,146.45,Transport
+TX0041,Fuel at petrol station paid via card,177.62,Transport
+TX0042,Metro train ticket October,16.23,Transport
+TX0043,Taxi fare to office invoice,60.84,Transport
+TX0044,Uber ride downtown online,75.9,Transport
+TX0045,Careem car trip transaction,24.55,Transport
+TX0046,Bus ticket commute paid via card,62.03,Transport
+TX0047,Fuel at petrol station October,29.75,Transport
+TX0048,Metro train ticket invoice,73.1,Transport
+TX0049,Taxi fare to office online,160.74,Transport
+TX0050,Uber ride downtown transaction,94.38,Transport
+TX0051,Amazon clothing purchase,95.69,Shopping
+TX0052,New shoes shopping mall,56.33,Shopping
+TX0053,Electronics store headphones,70.41,Shopping
+TX0054,Online handbag purchase,234.48,Shopping
+TX0055,Purchase office chair,163.77,Shopping
+TX0056,Fashion outlet jeans,154.24,Shopping
+TX0057,Amazon clothing purchase October,46.93,Shopping
+TX0058,New shoes shopping mall invoice,183.64,Shopping
+TX0059,Electronics store headphones online,45.03,Shopping
+TX0060,Online handbag purchase transaction,97.97,Shopping
+TX0061,Purchase office chair paid via card,247.43,Shopping
+TX0062,Fashion outlet jeans October,161.8,Shopping
+TX0063,Amazon clothing purchase invoice,141.45,Shopping
+TX0064,New shoes shopping mall online,172.73,Shopping
+TX0065,Electronics store headphones transaction,211.5,Shopping
+TX0066,Online handbag purchase paid via card,195.12,Shopping
+TX0067,Purchase office chair October,61.12,Shopping
+TX0068,Fashion outlet jeans invoice,12.86,Shopping
+TX0069,Amazon clothing purchase online,82.29,Shopping
+TX0070,New shoes shopping mall transaction,70.6,Shopping
+TX0071,Electronics store headphones paid via card,56.69,Shopping
+TX0072,Online handbag purchase October,236.01,Shopping
+TX0073,Purchase office chair invoice,219.71,Shopping
+TX0074,Fashion outlet jeans online,82.1,Shopping
+TX0075,Amazon clothing purchase transaction,165.58,Shopping
+TX0076,Electricity utility bill,101.93,Bills
+TX0077,Internet broadband monthly bill,229.06,Bills
+TX0078,Mobile phone plan payment,117.42,Bills
+TX0079,Gas utility invoice,69.9,Bills
+TX0080,Water supply charges,65.42,Bills
+TX0081,Home rent payment,142.54,Bills
+TX0082,Electricity utility bill October,69.37,Bills
+TX0083,Internet broadband monthly bill invoice,148.22,Bills
+TX0084,Mobile phone plan payment online,224.97,Bills
+TX0085,Gas utility invoice transaction,102.85,Bills
+TX0086,Water supply charges paid via card,58.73,Bills
+TX0087,Home rent payment October,249.4,Bills
+TX0088,Electricity utility bill invoice,129.83,Bills
+TX0089,Internet broadband monthly bill online,27.27,Bills
+TX0090,Mobile phone plan payment transaction,16.54,Bills
+TX0091,Gas utility invoice paid via card,31.86,Bills
+TX0092,Water supply charges October,158.72,Bills
+TX0093,Home rent payment invoice,199.06,Bills
+TX0094,Electricity utility bill online,108.43,Bills
+TX0095,Internet broadband monthly bill transaction,20.56,Bills
+TX0096,Mobile phone plan payment paid via card,98.5,Bills
+TX0097,Gas utility invoice October,249.05,Bills
+TX0098,Water supply charges invoice,134.63,Bills
+TX0099,Home rent payment online,242.91,Bills
+TX0100,Electricity utility bill transaction,215.89,Bills
+TX0101,Netflix monthly subscription,7.81,Entertainment
+TX0102,Cinema movie tickets,181.58,Entertainment
+TX0103,Spotify premium subscription,172.02,Entertainment
+TX0104,Gaming subscription purchase,136.56,Entertainment
+TX0105,Concert entry tickets,70.37,Entertainment
+TX0106,Disney streaming plan,162.04,Entertainment
+TX0107,Netflix monthly subscription October,32.33,Entertainment
+TX0108,Cinema movie tickets invoice,111.52,Entertainment
+TX0109,Spotify premium subscription online,116.16,Entertainment
+TX0110,Gaming subscription purchase transaction,238.68,Entertainment
+TX0111,Concert entry tickets paid via card,219.58,Entertainment
+TX0112,Disney streaming plan October,69.53,Entertainment
+TX0113,Netflix monthly subscription invoice,127.64,Entertainment
+TX0114,Cinema movie tickets online,48.77,Entertainment
+TX0115,Spotify premium subscription transaction,228.59,Entertainment
+TX0116,Gaming subscription purchase paid via card,218.28,Entertainment
+TX0117,Concert entry tickets October,78.12,Entertainment
+TX0118,Disney streaming plan invoice,161.54,Entertainment
+TX0119,Netflix monthly subscription online,154.2,Entertainment
+TX0120,Cinema movie tickets transaction,42.45,Entertainment
+TX0121,Spotify premium subscription paid via card,191.82,Entertainment
+TX0122,Gaming subscription purchase October,137.15,Entertainment
+TX0123,Concert entry tickets invoice,195.76,Entertainment
+TX0124,Disney streaming plan online,134.94,Entertainment
+TX0125,Netflix monthly subscription transaction,5.14,Entertainment
+TX0126,Hospital consultation fee,84.42,Healthcare
+TX0127,Pharmacy medicine purchase,9.77,Healthcare
+TX0128,Dental cleaning appointment,232.63,Healthcare
+TX0129,Doctor clinic bill,220.29,Healthcare
+TX0130,Lab blood test payment,208.76,Healthcare
+TX0131,Medical checkup charges,80.34,Healthcare
+TX0132,Hospital consultation fee October,19.19,Healthcare
+TX0133,Pharmacy medicine purchase invoice,220.11,Healthcare
+TX0134,Dental cleaning appointment online,237.0,Healthcare
+TX0135,Doctor clinic bill transaction,25.99,Healthcare
+TX0136,Lab blood test payment paid via card,124.07,Healthcare
+TX0137,Medical checkup charges October,21.96,Healthcare
+TX0138,Hospital consultation fee invoice,191.35,Healthcare
+TX0139,Pharmacy medicine purchase online,192.63,Healthcare
+TX0140,Dental cleaning appointment transaction,36.46,Healthcare
+TX0141,Doctor clinic bill paid via card,121.44,Healthcare
+TX0142,Lab blood test payment October,139.7,Healthcare
+TX0143,Medical checkup charges invoice,69.94,Healthcare
+TX0144,Hospital consultation fee online,218.75,Healthcare
+TX0145,Pharmacy medicine purchase transaction,108.67,Healthcare
+TX0146,Dental cleaning appointment paid via card,56.89,Healthcare
+TX0147,Doctor clinic bill October,137.13,Healthcare
+TX0148,Lab blood test payment invoice,183.83,Healthcare
+TX0149,Medical checkup charges online,54.28,Healthcare
+TX0150,Hospital consultation fee transaction,81.37,Healthcare
+TX0151,Airline flight booking,248.81,Travel
+TX0152,Hotel overnight stay,164.22,Travel
+TX0153,Vacation resort booking,112.33,Travel
+TX0154,Airport hotel reservation,131.81,Travel
+TX0155,Travel tour package,34.65,Travel
+TX0156,Flight baggage fee,60.05,Travel
+TX0157,Airline flight booking October,87.83,Travel
+TX0158,Hotel overnight stay invoice,149.14,Travel
+TX0159,Vacation resort booking online,61.38,Travel
+TX0160,Airport hotel reservation transaction,58.95,Travel
+TX0161,Travel tour package paid via card,22.39,Travel
+TX0162,Flight baggage fee October,159.62,Travel
+TX0163,Airline flight booking invoice,61.09,Travel
+TX0164,Hotel overnight stay online,226.83,Travel
+TX0165,Vacation resort booking transaction,215.61,Travel
+TX0166,Airport hotel reservation paid via card,22.36,Travel
+TX0167,Travel tour package October,63.31,Travel
+TX0168,Flight baggage fee invoice,168.9,Travel
+TX0169,Airline flight booking online,57.49,Travel
+TX0170,Hotel overnight stay transaction,37.42,Travel
+TX0171,Vacation resort booking paid via card,234.2,Travel
+TX0172,Airport hotel reservation October,144.91,Travel
+TX0173,Travel tour package invoice,120.8,Travel
+TX0174,Flight baggage fee online,197.23,Travel
+TX0175,Airline flight booking transaction,202.84,Travel
+TX0176,University course tuition,51.65,Education
+TX0177,Online coding bootcamp,28.75,Education
+TX0178,Buy school textbooks,110.61,Education
+TX0179,Coursera certificate course,108.78,Education
+TX0180,Library membership fee,119.42,Education
+TX0181,Professional exam registration,183.62,Education
+TX0182,University course tuition October,169.97,Education
+TX0183,Online coding bootcamp invoice,246.12,Education
+TX0184,Buy school textbooks online,29.11,Education
+TX0185,Coursera certificate course transaction,103.64,Education
+TX0186,Library membership fee paid via card,88.13,Education
+TX0187,Professional exam registration October,216.11,Education
+TX0188,University course tuition invoice,65.92,Education
+TX0189,Online coding bootcamp online,51.6,Education
+TX0190,Buy school textbooks transaction,114.91,Education
+TX0191,Coursera certificate course paid via card,108.36,Education
+TX0192,Library membership fee October,73.24,Education
+TX0193,Professional exam registration invoice,66.2,Education
+TX0194,University course tuition online,231.2,Education
+TX0195,Online coding bootcamp transaction,113.57,Education
+TX0196,Buy school textbooks paid via card,216.03,Education
+TX0197,Coursera certificate course October,139.83,Education
+TX0198,Library membership fee invoice,17.39,Education
+TX0199,Professional exam registration online,249.82,Education
+TX0200,University course tuition transaction,209.83,Education
